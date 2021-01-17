@@ -7,7 +7,7 @@ function App() {
       <form>
         <h1>Hello</h1>
         <label>
-          <p>Enter your name: </p>
+          <p>Enter your name here: </p>
           <input name="name" />
         </label>
         <button type="submit">Submit</button>
